@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   inkscape:version="1.2-dev (aa02a11, 2021-08-11)"
+   sodipodi:docname="selection-bottom-symbolic.svg"
+   viewBox="0 0 16 16"
+   height="16"
+   width="16"
+   id="svg1"
+   version="1.1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata7131">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs7129">
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect127975"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.038307683"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect126063"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.020433505"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect51568"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="mm"
+       offset="0.047736552"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect45086"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="mm"
+       offset="0.027616102"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       attempt_force_join="true"
+       miter_limit="100"
+       linejoin_type="extrp_arc"
+       line_width="1.8897638"
+       linecap_type="butt"
+       lpeversion="1"
+       is_visible="true"
+       id="path-effect7712"
+       effect="join_type" />
+    <inkscape:path-effect
+       effect="join_type"
+       id="path-effect862"
+       is_visible="true"
+       lpeversion="1"
+       linecap_type="round"
+       line_width="0.87"
+       linejoin_type="extrp_arc"
+       miter_limit="100"
+       attempt_force_join="true" />
+    <inkscape:path-effect
+       effect="join_type"
+       id="path-effect883"
+       is_visible="true"
+       lpeversion="1"
+       linecap_type="butt"
+       line_width="0.99999996"
+       linejoin_type="extrp_arc"
+       miter_limit="100"
+       attempt_force_join="true" />
+    <inkscape:path-effect
+       effect="join_type"
+       id="path-effect881"
+       is_visible="false"
+       lpeversion="1"
+       linecap_type="butt"
+       line_width="0.97901702"
+       linejoin_type="extrp_arc"
+       miter_limit="100"
+       attempt_force_join="true" />
+    <inkscape:path-effect
+       effect="dashed_stroke"
+       id="path-effect879"
+       is_visible="false"
+       lpeversion="1"
+       numberdashes="2"
+       holefactor="0.46"
+       splitsegments="false"
+       halfextreme="false"
+       unifysegment="true"
+       message="Add &lt;b&gt;&quot;Fill Between Many LPE&quot;&lt;/b&gt; to add fill." />
+    <inkscape:path-effect
+       effect="join_type"
+       id="path-effect874"
+       is_visible="true"
+       lpeversion="1"
+       linecap_type="butt"
+       line_width="1.1999996"
+       linejoin_type="extrp_arc"
+       miter_limit="100"
+       attempt_force_join="true" />
+    <inkscape:path-effect
+       effect="dashed_stroke"
+       id="path-effect872"
+       is_visible="true"
+       lpeversion="1"
+       numberdashes="3"
+       holefactor="0.2"
+       splitsegments="true"
+       halfextreme="true"
+       unifysegment="true"
+       message="Add &lt;b&gt;&quot;Fill Between Many LPE&quot;&lt;/b&gt; to add fill." />
+  </defs>
+  <style
+     id="s0">
+.success { fill:#009909; }
+.warning { fill:#FF1990; }
+.warning { fill:#00AAFF; }
+</style>
+  <style
+     id="s2">
+@import '../../highlights.css';
+</style>
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:current-layer="svg1"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-9"
+     inkscape:window-x="-9"
+     inkscape:window-height="1013"
+     inkscape:window-width="1920"
+     inkscape:cy="5.430667"
+     inkscape:cx="6.447102"
+     inkscape:zoom="34.434076"
+     showgrid="false"
+     id="namedview"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     pagecolor="#f8f8f8"
+     bordercolor="#c8c8c8"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:snap-global="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     showguides="false"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       id="grid"
+       type="xygrid"
+       spacingx="0.66667"
+       spacingy="0.66667" />
+  </sodipodi:namedview>
+  <style
+     id="s0-6">
+.success { fill:#009909; }
+.warning { fill:#FF1990; }
+.warning { fill:#00AAFF; }
+</style>
+  <style
+     id="s2-7">
+@import '../../highlights.css';
+</style>
+  <style
+     id="s0-9">
+.success { fill:#009909; }
+.warning { fill:#FF1990; }
+.warning { fill:#00AAFF; }
+</style>
+  <style
+     id="s2-1">
+@import '../../highlights.css';
+</style>
+  <style
+     id="s0-3">
+.success { fill:#009909; }
+.warning { fill:#FF1990; }
+.warning { fill:#00AAFF; }
+</style>
+  <style
+     id="s2-6">
+@import '../../highlights.css';
+</style>
+  <style
+     id="s0-91">
+.success { fill:#009909; }
+.warning { fill:#FF1990; }
+.warning { fill:#00AAFF; }
+</style>
+  <style
+     id="s2-2">
+@import '../../highlights.css';
+</style>
+  <style
+     id="s0-36">
+   .success { fill: #009909; }
+   .warning { fill: #FF1990; }
+   .warning   { fill: #00AAFF; }
+  </style>
+  <style
+     id="s2-0"> 
+     @import '../../highlights.css'; 
+  </style>
+  <style
+     id="s0-6-6">
+   .success { fill: #009909; }
+   .warning { fill: #FF1990; }
+   .warning   { fill: #00AAFF; }
+  </style>
+  <style
+     id="s2-2-1"> 
+     @import '../../highlights.css'; 
+  </style>
+  <path
+     style="color:#000000;fill:#000000;stroke-width:0.598175;-inkscape-stroke:none"
+     d="M 13.354683,14.636719 V 10.968751 H 1.245077 v 3.667968 z"
+     id="path75821"
+     sodipodi:nodetypes="ccccc"
+     class="warning" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke-width:0.867195"
+     d="m 12.922899,9.8391854 -1.830078,-2.482422 h 1.417965 c -0.0098,-1.8027354 0.0098,-4.1907484 0,-5.9934824 h 0.769531 c 0.0091,1.802734 -0.0091,4.190748 0,5.9934824 h 1.474606 l -1.832031,2.482422 z"
+     id="path826-2"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccccc" />
+  <path
+     style="color:#000000;fill:#000000;stroke-width:0.598175;-inkscape-stroke:none"
+     d="M 9.1632751,9.8391854 V 6.1712177 H 1.2451649 v 3.6679677 z"
+     id="path1629-6"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     style="color:#000000;fill:#000000;stroke-width:0.598175;-inkscape-stroke:none"
+     d="M 9.1632754,5.031249 V 1.363281 H 1.2451649 v 3.667968 z"
+     id="path76078"
+     sodipodi:nodetypes="ccccc" />
+</svg>

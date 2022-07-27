@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="svg1"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   sodipodi:docname="distribute-vertical-top-symbolic.svg"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <style
+     id="s0">
+   .success { fill: #009909; }
+   .warning { fill: #FF1990; }
+   .warning   { fill: #00AAFF; }
+  </style>
+  <style
+     id="s2"> 
+     @import '../../highlights.css'; 
+  </style>
+  <metadata
+     id="metadata280">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs278" />
+  <sodipodi:namedview
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     id="namedview"
+     showgrid="false"
+     inkscape:zoom="12.656024"
+     inkscape:cx="7.3877862"
+     inkscape:cy="10.153268"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1"
+     inkscape:document-rotation="0"
+     inkscape:snap-global="true"
+     units="px"
+     inkscape:document-units="px"
+     pagecolor="#f8f8f8"
+     bordercolor="#c8c8c8"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:snap-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid"
+       units="px"
+       spacingx="0.66667"
+       spacingy="0.66667" />
+  </sodipodi:namedview>
+  <style
+     id="s0-6">
+   .success { fill: #009909; }
+   .warning { fill: #FF1990; }
+   .warning   { fill: #00AAFF; }
+  </style>
+  <style
+     id="s2-2"> 
+     @import '../../highlights.css'; 
+  </style>
+  <path
+     id="path5093"
+     style="fill:#000000;stroke-width:0.944883;stop-color:#000000"
+     d="M 14.851427,4.017135 V 5.528853 H 5.255722 V 4.017135 Z" />
+  <path
+     style="fill:#000000;stroke-width:0.944883;stop-color:#000000"
+     d="M 14.851427,2.543072 H 1.5936145 V 1.884869 H 14.851427 Z"
+     id="rect3926" />
+  <path
+     id="path2119"
+     style="fill:#000000;stroke-width:0.944881;stop-color:#000000"
+     d="m 12.743039,12.60332 v 1.511811 H 6.8242981 V 12.60332 Z" />
+  <path
+     style="fill:#000000;stroke-width:0.944883;stop-color:#000000"
+     d="M 12.743039,11.129257 H 1.5936146 V 10.471054 H 12.743039 Z"
+     id="path2121" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke-width:0.666661"
+     d="M 1.148573,5.497666 2.7681459,3.278027 4.3877134,5.497666 h -1.214677 v 0.5674437 0.8817469 0.567444 h 1.214677 L 2.7681459,9.7361002 1.148573,7.5143006 H 2.36325 V 6.9468566 6.0651097 5.497666 Z"
+     id="path826-2"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccccccccccc" />
+</svg>

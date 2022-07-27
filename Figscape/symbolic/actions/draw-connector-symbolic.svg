@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   inkscape:version="1.3-dev (fdfee2c, 2022-07-24)"
+   sodipodi:docname="draw-connector-symbolic.svg"
+   viewBox="0 0 16 16"
+   height="16"
+   width="16"
+   id="svg1"
+   version="1.1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <style
+     id="s0">
+   .success { fill: #009909; }
+   .warning { fill: #FF1990; }
+   .warning   { fill: #00AAFF; }
+  </style>
+  <style
+     id="s2"> 
+     @import '../../highlights.css'; 
+  </style>
+  <metadata
+     id="metadata1676">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1674">
+    <inkscape:path-effect
+       attempt_force_join="false"
+       miter_limit="100"
+       linejoin_type="round"
+       line_width="0.67"
+       linecap_type="butt"
+       is_visible="true"
+       id="path-effect853"
+       effect="join_type" />
+    <inkscape:path-effect
+       effect="join_type"
+       id="path-effect849"
+       is_visible="true"
+       linecap_type="butt"
+       line_width="0.67132712"
+       linejoin_type="round"
+       miter_limit="100"
+       attempt_force_join="true" />
+    <inkscape:path-effect
+       attempt_force_join="false"
+       miter_limit="100"
+       linejoin_type="round"
+       line_width="0.67"
+       linecap_type="butt"
+       is_visible="true"
+       id="path-effect2376"
+       effect="join_type" />
+    <inkscape:path-effect
+       effect="join_type"
+       id="path-effect2329"
+       is_visible="true"
+       linecap_type="butt"
+       line_width="0.67132712"
+       linejoin_type="round"
+       miter_limit="100"
+       attempt_force_join="true" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:current-layer="svg1"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-9"
+     inkscape:window-x="-9"
+     inkscape:window-height="1013"
+     inkscape:window-width="1920"
+     inkscape:cy="4.9810472"
+     inkscape:cx="-10.759062"
+     inkscape:zoom="7.5285374"
+     showgrid="false"
+     id="namedview"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     pagecolor="#4d4d4d"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="false"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#4d4d4d">
+    <inkscape:grid
+       id="grid"
+       type="xygrid"
+       spacingx="0.66666667"
+       spacingy="0.66667" />
+  </sodipodi:namedview>
+  <path
+     id="rect38798"
+     style="color:#000000;fill:#000000;stroke-width:0.999998;-inkscape-stroke:none"
+     d="m 3.0358015,2.1787162 v 0.347709 3.008693 c 0.4938462,-0.0064 1.4813571,-0.0071 1.4813571,-0.0071 l 0.3362149,3.816148 H 3.0358015 V 9.6904383 13.821284 H 7.765799 V 9.3441662 c -0.7395433,0.003 -2.2184436,0.0047 -2.2184436,0.0047 L 5.2125773,5.5351312 h 1.1796259 v -1.330492 h 3.9713588 v 2.422472 H 8.4569073 v 0.347709 3.008693 h 4.5072917 v -3.356402 h -1.906654 v -3.11789 H 6.3922033 v -1.330492 z m 0.6954188,0.695419 h 1.965564 v 1.965564 H 3.7312202 Z m 5.4196695,4.448381 H 12.26878 v 1.965565 H 9.1508898 Z M 3.7312203,10.038099 h 3.3405968 v 3.087717 H 3.7312203 Z"
+     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccc" />
+</svg>

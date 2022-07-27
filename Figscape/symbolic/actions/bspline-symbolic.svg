@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="svg1"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   sodipodi:docname="bspline-symbolic.svg"
+   inkscape:version="1.2-dev (aa02a11, 2021-08-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata4359">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4357">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect16569"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect11286"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect9818"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect9400"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7881"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7255"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5491"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3809"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect848"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="join_type"
+       id="path-effect844"
+       is_visible="true"
+       lpeversion="1"
+       linecap_type="butt"
+       line_width="1.33"
+       linejoin_type="extrp_arc"
+       miter_limit="100"
+       attempt_force_join="true" />
+    <inkscape:path-effect
+       attempt_force_join="true"
+       miter_limit="100"
+       linejoin_type="extrp_arc"
+       line_width="1"
+       linecap_type="butt"
+       is_visible="true"
+       id="path-effect2216"
+       effect="join_type"
+       lpeversion="0" />
+    <inkscape:path-effect
+       effect="join_type"
+       id="path-effect851"
+       is_visible="true"
+       lpeversion="1"
+       linecap_type="round"
+       line_width="0.87"
+       linejoin_type="extrp_arc"
+       miter_limit="100"
+       attempt_force_join="true" />
+  </defs>
+  <style
+     id="s0">
+.success { fill:#009909; }
+.warning { fill:#FF1990; }
+.warning { fill:#00AAFF; }
+</style>
+  <style
+     id="s2">
+@import '../../highlights.css';
+</style>
+  <sodipodi:namedview
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     id="namedview"
+     showgrid="false"
+     inkscape:zoom="27.802152"
+     inkscape:cx="14.980855"
+     inkscape:cy="0.61146345"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1"
+     inkscape:document-rotation="0"
+     pagecolor="#f8f8f8"
+     bordercolor="#c8c8c8"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid"
+       spacingx="0.66667"
+       spacingy="0.66667" />
+  </sodipodi:namedview>
+  <g
+     style="fill:#000000;fill-opacity:1"
+     id="g8620-2"
+     transform="rotate(-90,167.81891,725.18109)" />
+  <style
+     id="s0-6753">
+   .success { fill: #009909; }
+   .warning { fill: #FF1990; }
+   .warning   { fill: #00AAFF; }
+  </style>
+  <style
+     id="s2-56"> 
+     @import '../../highlights.css'; 
+  </style>
+  <style
+     id="s0-67">
+   .success { fill: #009909; }
+   .warning { fill: #FF1990; }
+   .warning   { fill: #00AAFF; }
+  </style>
+  <style
+     id="s2-5"> 
+     @import '../../highlights.css'; 
+  </style>
+  <style
+     id="s0-61">
+   .success { fill: #009909; }
+   .warning { fill: #FF1990; }
+   .warning   { fill: #00AAFF; }
+  </style>
+  <style
+     id="s2-8"> 
+     @import '../../highlights.css'; 
+  </style>
+  <style
+     id="s0-6">
+   .success { fill: #009909; }
+   .warning { fill: #FF1990; }
+   .warning   { fill: #00AAFF; }
+  </style>
+  <style
+     id="s2-7"> 
+     @import '../../highlights.css'; 
+  </style>
+  <style
+     id="s0-62">
+   .success { fill: #009909; }
+   .warning { fill: #FF1990; }
+   .warning   { fill: #00AAFF; }
+  </style>
+  <style
+     id="s2-9"> 
+     @import '../../highlights.css'; 
+  </style>
+  <style
+     id="s0-0">
+   .success { fill: #009909; }
+   .warning { fill: #FF1990; }
+   .warning   { fill: #00AAFF; }
+  </style>
+  <style
+     id="s2-93"> 
+     @import '../../highlights.css'; 
+  </style>
+  <style
+     id="s0-6-6">
+   .success { fill: #009909; }
+   .warning { fill: #FF1990; }
+   .warning   { fill: #00AAFF; }
+  </style>
+  <style
+     id="s2-2"> 
+     @import '../../highlights.css'; 
+  </style>
+  <style
+     id="s0-675">
+   .success { fill: #009909; }
+   .warning { fill: #FF1990; }
+   .warning   { fill: #00AAFF; }
+  </style>
+  <style
+     id="s2-3"> 
+     @import '../../highlights.css'; 
+  </style>
+  <path
+     style="color:#000000;fill:#000000;fill-rule:evenodd;-inkscape-stroke:none"
+     d="M 13.748047,2.7714844 C 11.996549,2.7835331 10.231801,2.7932232 8.6640625,3 7.0963242,3.2067768 5.711047,3.6045011 4.7421875,4.4589844 3.7745031,5.3124313 3.3121778,6.5501847 3.0859375,7.9335937 2.8596972,9.3170028 2.8630786,10.866953 2.8632813,12.419922 H 3.6191406 C 3.618938,10.866953 3.6206466,9.3492109 3.8320313,8.0566406 4.0434159,6.7640703 4.4581771,5.7168467 5.2421875,5.0253906 6.0250228,4.334971 7.2660934,3.9475231 8.7636719,3.75 10.26125,3.5524769 12.000455,3.5393925 13.751953,3.5273438 Z"
+     id="path11284" />
+  <path
+     style="color:#000000;fill:#000000;fill-rule:evenodd;-inkscape-stroke:none"
+     d="M 13.75,2.6074219 2.7890625,2.6484375 V 12.427734 H 3.5449219 V 3.4023438 L 13.751953,3.3632813 Z"
+     id="path12267" />
+  <path
+     class="base"
+     d="m 4.1950735,13.39303 -1.94779,3e-6 -8e-6,-1.9478 1.947798,-3e-6 z"
+     id="path5208-7"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc"
+     style="display:inline;fill:#000000;fill-opacity:1;stroke-width:0.999993" />
+</svg>

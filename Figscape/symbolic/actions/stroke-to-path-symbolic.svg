@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   inkscape:version="1.2-dev (aa02a11, 2021-08-11)"
+   sodipodi:docname="stroke-to-path-symbolic.svg"
+   viewBox="0 0 16 16"
+   height="16"
+   width="16"
+   id="svg1"
+   version="1.1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata4745">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4743">
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect14683"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.043831067"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect6389"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="mm"
+       offset="0.016899896"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect5314"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="mm"
+       offset="0.025458044"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2063"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect17485"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect14453"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect13179"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect20562"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="mm"
+       offset="0.027575384"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+  </defs>
+  <style
+     id="s0">
+.success { fill:#009909; }
+.warning { fill:#FF1990; }
+.warning { fill:#00AAFF; }
+</style>
+  <style
+     id="s2">
+@import '../../highlights.css';
+</style>
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:current-layer="svg1"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-9"
+     inkscape:window-x="-9"
+     inkscape:window-height="1013"
+     inkscape:window-width="1920"
+     inkscape:cy="-19.022119"
+     inkscape:cx="38.829132"
+     inkscape:zoom="10.829498"
+     showgrid="false"
+     id="namedview"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     pagecolor="#f8f8f8"
+     bordercolor="#c8c8c8"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       id="grid"
+       type="xygrid"
+       spacingx="0.66666667"
+       spacingy="0.66667" />
+  </sodipodi:namedview>
+  <style
+     id="s0-67">
+   .success { fill: #009909; }
+   .warning { fill: #FF1990; }
+   .warning   { fill: #00AAFF; }
+  </style>
+  <style
+     id="s2-5"> 
+     @import '../../highlights.css'; 
+  </style>
+  <style
+     id="s0-61">
+   .success { fill: #009909; }
+   .warning { fill: #FF1990; }
+   .warning   { fill: #00AAFF; }
+  </style>
+  <style
+     id="s2-8"> 
+     @import '../../highlights.css'; 
+  </style>
+  <style
+     id="s0-6">
+   .success { fill: #009909; }
+   .warning { fill: #FF1990; }
+   .warning   { fill: #00AAFF; }
+  </style>
+  <style
+     id="s2-7"> 
+     @import '../../highlights.css'; 
+  </style>
+  <style
+     id="s0-62">
+   .success { fill: #009909; }
+   .warning { fill: #FF1990; }
+   .warning   { fill: #00AAFF; }
+  </style>
+  <style
+     id="s2-9"> 
+     @import '../../highlights.css'; 
+  </style>
+  <style
+     id="s0-0">
+   .success { fill: #009909; }
+   .warning { fill: #FF1990; }
+   .warning   { fill: #00AAFF; }
+  </style>
+  <style
+     id="s2-93"> 
+     @import '../../highlights.css'; 
+  </style>
+  <style
+     id="s0-6-6">
+   .success { fill: #009909; }
+   .warning { fill: #FF1990; }
+   .warning   { fill: #00AAFF; }
+  </style>
+  <style
+     id="s2-2"> 
+     @import '../../highlights.css'; 
+  </style>
+  <g
+     id="g2796"
+     transform="matrix(0,-1.6166137,1,0,3.6066412,5.110553)"
+     style="display:none;stroke-width:0.786497">
+    <g
+       id="g4329"
+       style="display:inline">
+      <g
+         id="g16449"
+         transform="matrix(0,1.6166137,-0.61857697,0,13.42144,-12.157048)"
+         style="stroke-width:0.786497">
+        <path
+           style="fill:#000000;fill-opacity:1;stroke-width:0.524327"
+           d="M 12.022553,5.337047 H 11.149258 9.792253 8.918957 V 4.2031887 h 0.873296 1.357005 0.873295 z"
+           id="path8976"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccc" />
+      </g>
+      <path
+         style="fill:#000000;fill-opacity:1;stroke-width:0.524327"
+         d="M 12.022553,5.337047 H 11.149258 9.792253 8.918957 V 4.2031887 h 0.873296 1.357005 0.873295 z"
+         id="path2794"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccc" />
+    </g>
+  </g>
+  <path
+     style="color:#000000;fill:#000000;fill-rule:evenodd;stroke-width:0.999999;-inkscape-stroke:none"
+     d="M 8.6647082,2.1656624 C 7.7915771,2.1997082 6.9208629,2.5196704 6.2669456,3.1056837 5.8451703,3.4822722 5.5164576,3.9692767 5.3579258,4.5137265 5.1682445,5.1515702 5.2352006,5.8591847 5.5361855,6.4522796 5.7919773,6.9589961 6.2012308,7.3707069 6.6480204,7.7127049 7.2728743,8.1863058 7.9804843,8.5297705 8.6588753,8.917024 9.0170477,9.1230775 9.370397,9.3396164 9.6869758,9.6065407 c 0.276055,0.2284982 0.5252062,0.4985673 0.7059632,0.8103943 0.198375,0.344268 0.289465,0.748582 0.25911,1.144725 -0.02951,0.466058 -0.225969,0.915844 -0.537068,1.262861 -0.4333427,0.491568 -1.0537905,0.810673 -1.7047217,0.882625 -0.3328288,0.0384 -0.6734221,0.02473 -0.9999547,-0.05109 C 7.174202,13.599885 6.9414704,13.522164 6.7309342,13.399518 6.2766858,13.145003 5.8989018,12.741839 5.7074452,12.254601 c -0.2368811,0.06671 -0.4737622,0.133415 -0.7106433,0.200123 0.2591502,0.672843 0.7917789,1.224968 1.435665,1.54224 0.6819617,0.335752 1.4713185,0.434884 2.2189638,0.31022 0.6978634,-0.113237 1.3647903,-0.43206 1.8788163,-0.919232 0.403182,-0.381012 0.707392,-0.874922 0.826823,-1.419382 0.104052,-0.460231 0.07984,-0.949404 -0.07676,-1.394998 C 11.087317,10.016454 10.699538,9.5476237 10.253447,9.1713724 9.6405864,8.6536521 8.9170508,8.296483 8.2213033,7.9059827 7.7667658,7.6502755 7.3116869,7.3849357 6.9210305,7.0370987 6.563888,6.7229194 6.2522593,6.3324324 6.111841,5.8708384 5.9437971,5.3377035 5.9950308,4.7397065 6.2546224,4.2442344 6.4902392,3.7906973 6.8651104,3.412051 7.3131356,3.1667745 7.7070928,2.9478607 8.1519357,2.8248637 8.6008649,2.7946744 9.1850803,2.7644229 9.7817162,2.9002198 10.283759,3.2038891 10.423896,3.0395632 10.564033,2.8752375 10.704171,2.7109117 10.092523,2.3458211 9.3792571,2.1397328 8.6647082,2.1656624 Z"
+     id="path1816-3" />
+  <style
+     id="s0-5">
+   .success { fill: #009909; }
+   .warning { fill: #FF1990; }
+   .warning   { fill: #00AAFF; }
+  </style>
+  <style
+     id="s2-3"> 
+     @import '../../highlights.css'; 
+  </style>
+  <style
+     id="s0-61-2">
+   .success { fill: #009909; }
+   .warning { fill: #FF1990; }
+   .warning   { fill: #00AAFF; }
+  </style>
+  <style
+     id="s2-8-9"> 
+     @import '../../highlights.css'; 
+  </style>
+  <style
+     id="s0-6-1">
+   .success { fill: #009909; }
+   .warning { fill: #FF1990; }
+   .warning   { fill: #00AAFF; }
+  </style>
+  <style
+     id="s2-7-2"> 
+     @import '../../highlights.css'; 
+  </style>
+  <style
+     id="s0-62-7">
+   .success { fill: #009909; }
+   .warning { fill: #FF1990; }
+   .warning   { fill: #00AAFF; }
+  </style>
+  <style
+     id="s2-9-0"> 
+     @import '../../highlights.css'; 
+  </style>
+  <style
+     id="s0-0-9">
+   .success { fill: #009909; }
+   .warning { fill: #FF1990; }
+   .warning   { fill: #00AAFF; }
+  </style>
+  <style
+     id="s2-93-3"> 
+     @import '../../highlights.css'; 
+  </style>
+  <style
+     id="s0-6-6-6">
+   .success { fill: #009909; }
+   .warning { fill: #FF1990; }
+   .warning   { fill: #00AAFF; }
+  </style>
+  <style
+     id="s2-2-0"> 
+     @import '../../highlights.css'; 
+  </style>
+  <style
+     id="s0-1">
+.success { fill:#009909; }
+.warning { fill:#FF1990; }
+.warning { fill:#00AAFF; }
+</style>
+  <style
+     id="s2-87">
+@import '../../highlights.css';
+</style>
+  <style
+     id="s0-67-0">
+   .success { fill: #009909; }
+   .warning { fill: #FF1990; }
+   .warning   { fill: #00AAFF; }
+  </style>
+  <style
+     id="s2-5-2"> 
+     @import '../../highlights.css'; 
+  </style>
+  <style
+     id="s0-61-3">
+   .success { fill: #009909; }
+   .warning { fill: #FF1990; }
+   .warning   { fill: #00AAFF; }
+  </style>
+  <style
+     id="s2-8-7"> 
+     @import '../../highlights.css'; 
+  </style>
+  <style
+     id="s0-6-5">
+   .success { fill: #009909; }
+   .warning { fill: #FF1990; }
+   .warning   { fill: #00AAFF; }
+  </style>
+  <style
+     id="s2-7-9"> 
+     @import '../../highlights.css'; 
+  </style>
+  <style
+     id="s0-62-2">
+   .success { fill: #009909; }
+   .warning { fill: #FF1990; }
+   .warning   { fill: #00AAFF; }
+  </style>
+  <style
+     id="s2-9-2"> 
+     @import '../../highlights.css'; 
+  </style>
+  <style
+     id="s0-0-8">
+   .success { fill: #009909; }
+   .warning { fill: #FF1990; }
+   .warning   { fill: #00AAFF; }
+  </style>
+  <style
+     id="s2-93-9"> 
+     @import '../../highlights.css'; 
+  </style>
+  <style
+     id="s0-6-6-7">
+   .success { fill: #009909; }
+   .warning { fill: #FF1990; }
+   .warning   { fill: #00AAFF; }
+  </style>
+  <style
+     id="s2-2-3"> 
+     @import '../../highlights.css'; 
+  </style>
+  <style
+     id="s0-5-1">
+   .success { fill: #009909; }
+   .warning { fill: #FF1990; }
+   .warning   { fill: #00AAFF; }
+  </style>
+  <style
+     id="s2-3-9"> 
+     @import '../../highlights.css'; 
+  </style>
+  <style
+     id="s0-61-2-4">
+   .success { fill: #009909; }
+   .warning { fill: #FF1990; }
+   .warning   { fill: #00AAFF; }
+  </style>
+  <style
+     id="s2-8-9-7"> 
+     @import '../../highlights.css'; 
+  </style>
+  <style
+     id="s0-6-1-8">
+   .success { fill: #009909; }
+   .warning { fill: #FF1990; }
+   .warning   { fill: #00AAFF; }
+  </style>
+  <style
+     id="s2-7-2-4"> 
+     @import '../../highlights.css'; 
+  </style>
+  <style
+     id="s0-62-7-5">
+   .success { fill: #009909; }
+   .warning { fill: #FF1990; }
+   .warning   { fill: #00AAFF; }
+  </style>
+  <style
+     id="s2-9-0-0"> 
+     @import '../../highlights.css'; 
+  </style>
+  <style
+     id="s0-0-9-3">
+   .success { fill: #009909; }
+   .warning { fill: #FF1990; }
+   .warning   { fill: #00AAFF; }
+  </style>
+  <style
+     id="s2-93-3-6"> 
+     @import '../../highlights.css'; 
+  </style>
+  <style
+     id="s0-6-6-6-1">
+   .success { fill: #009909; }
+   .warning { fill: #FF1990; }
+   .warning   { fill: #00AAFF; }
+  </style>
+  <style
+     id="s2-2-0-0"> 
+     @import '../../highlights.css'; 
+  </style>
+  <rect
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529134;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+     id="rect22083-6"
+     width="2.4087029"
+     height="2.4087029"
+     x="-11.450668"
+     y="2.9751759"
+     transform="rotate(-140.5126)" />
+  <rect
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529134;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+     id="rect25373"
+     width="2.4087029"
+     height="2.4087029"
+     x="-13.480802"
+     y="-7.5575738"
+     transform="rotate(-140.5126)" />
+  <rect
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529134;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+     id="rect31185"
+     width="2.4087029"
+     height="2.4087029"
+     x="-13.214308"
+     y="-2.1546166"
+     transform="rotate(-140.5126)" />
+</svg>

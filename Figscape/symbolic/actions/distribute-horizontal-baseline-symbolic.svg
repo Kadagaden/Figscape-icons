@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="svg1"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   sodipodi:docname="distribute-horizontal-baseline-symbolic.svg"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <path
+     style="fill:#000000;stroke-width:0.944883;stop-color:#000000"
+     d="M 9.5853898,14.628906 V 1.371094 H 8.9271866 v 13.257812 z"
+     id="rect3926" />
+  <g
+     aria-label="B"
+     id="text4220"
+     style="font-size:6.98249px;line-height:137.451px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;stroke-width:1px"
+     transform="translate(8.2122367,-2.5330241)">
+    <path
+       d="M 1.3778591,13.015081 V 8.0509674 h 1.7831262 q 0.9580467,0 1.4558219,0.3511701 0.5011846,0.3511702 0.5011846,1.0194163 0,0.3852643 -0.1772898,0.6580182 -0.1772898,0.272753 -0.5216411,0.402311 0.3886737,0.102283 0.5966483,0.381855 0.2079745,0.279572 0.2079745,0.681884 0,0.729615 -0.4636809,1.097833 -0.4602716,0.364808 -1.367177,0.371626 z m 1.1967061,-2.11043 v 1.189887 h 0.7841664 q 0.3238948,0 0.4977751,-0.146605 0.1738804,-0.150014 0.1738804,-0.419358 0,-0.620515 -0.6171048,-0.623924 z m 0,-0.784166 h 0.6239237 q 0.3920832,-0.0034 0.5591447,-0.1431959 0.1670615,-0.1397862 0.1670615,-0.4125397 0,-0.3136665 -0.1806992,-0.4500433 Q 3.5632967,8.9749199 3.1609853,8.9749199 H 2.5745652 Z"
+       style="font-weight:900;-inkscape-font-specification:'Roboto Heavy'"
+       id="path7471" />
+  </g>
+  <style
+     id="s0">
+   .success { fill: #009909; }
+   .warning { fill: #FF1990; }
+   .warning   { fill: #00AAFF; }
+  </style>
+  <style
+     id="s2"> 
+     @import '../../highlights.css'; 
+  </style>
+  <metadata
+     id="metadata280">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs278" />
+  <sodipodi:namedview
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     id="namedview"
+     showgrid="false"
+     inkscape:zoom="31.448569"
+     inkscape:cx="7.2976293"
+     inkscape:cy="9.5870816"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1"
+     inkscape:document-rotation="0"
+     inkscape:snap-global="true"
+     units="px"
+     inkscape:document-units="px"
+     pagecolor="#f8f8f8"
+     bordercolor="#c8c8c8"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid"
+       units="px"
+       spacingx="0.66667"
+       spacingy="0.66667" />
+  </sodipodi:namedview>
+  <path
+     style="fill:#000000;stroke-width:0.944883;stop-color:#000000"
+     d="M 3.2222827,14.628906 V 1.371094 H 2.5640796 v 13.257812 z"
+     id="path7421" />
+  <g
+     aria-label="A"
+     id="text2658"
+     style="font-size:6.98249px;line-height:137.451px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;stroke-width:1px"
+     transform="translate(1.7461873,3.2931618)">
+    <path
+       d="M 4.6543802,6.2615333 H 3.0144497 L 2.7280585,7.1888952 H 1.4495264 l 1.8206297,-4.964114 h 1.1251082 l 1.8342675,4.964114 H 4.9441808 Z M 3.3008409,5.3375807 H 4.367989 L 3.8327102,3.6158241 Z"
+       style="font-weight:900;-inkscape-font-specification:'Roboto Heavy'"
+       id="path7468" />
+  </g>
+</svg>

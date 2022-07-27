@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="svg1"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   sodipodi:docname="align-sel-as-group-symbolic.svg"
+   inkscape:version="1.2-dev (aa02a11, 2021-08-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <style
+     id="s0">
+   .success { fill: #009909; }
+   .warning { fill: #FF1990; }
+   .warning   { fill: #00AAFF; }
+  </style>
+  <style
+     id="s2"> 
+     @import '../../highlights.css'; 
+  </style>
+  <defs
+     id="defs10">
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect2504"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="mm"
+       offset="0.05253377"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="dashed_stroke"
+       id="path-effect1232"
+       is_visible="true"
+       lpeversion="1"
+       numberdashes="6"
+       holefactor="0"
+       splitsegments="true"
+       halfextreme="true"
+       unifysegment="true"
+       message="Add &lt;b&gt;&quot;Fill Between Many LPE&quot;&lt;/b&gt; to add fill." />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect1228"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.052021329"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="dashed_stroke"
+       id="path-effect8707"
+       is_visible="true"
+       lpeversion="1"
+       numberdashes="6"
+       holefactor="0"
+       splitsegments="true"
+       halfextreme="true"
+       unifysegment="true"
+       message="Add &lt;b&gt;&quot;Fill Between Many LPE&quot;&lt;/b&gt; to add fill." />
+    <inkscape:path-effect
+       effect="offset"
+       id="path-effect6717"
+       is_visible="true"
+       lpeversion="1"
+       linejoin_type="miter"
+       unit="mm"
+       offset="-0.052021329"
+       miter_limit="4"
+       attempt_force_join="false"
+       update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="copy_rotate"
+       starting_point="40.333305,14.3333"
+       origin="39.3333,14.3333"
+       id="path-effect6075"
+       is_visible="true"
+       lpeversion="1"
+       method="normal"
+       num_copies="4"
+       starting_angle="0"
+       rotation_angle="60"
+       gap="-0.01"
+       copies_to_360="true"
+       mirror_copies="false"
+       split_items="false" />
+    <inkscape:path-effect
+       effect="copy_rotate"
+       starting_point="40.333305,14.3333"
+       origin="39.3333,14.3333"
+       id="path-effect6071"
+       is_visible="true"
+       lpeversion="1"
+       method="normal"
+       num_copies="4"
+       starting_angle="0"
+       rotation_angle="60"
+       gap="-0.01"
+       copies_to_360="true"
+       mirror_copies="false"
+       split_items="false" />
+    <inkscape:path-effect
+       effect="copy_rotate"
+       starting_point="40.333305,14.3333"
+       origin="39.3333,14.3333"
+       id="path-effect860"
+       is_visible="true"
+       lpeversion="1"
+       method="normal"
+       num_copies="4"
+       starting_angle="0"
+       rotation_angle="60"
+       gap="-0.01"
+       copies_to_360="true"
+       mirror_copies="false"
+       split_items="false" />
+    <inkscape:path-effect
+       effect="copy_rotate"
+       starting_point="40.333305,14.3333"
+       origin="39.3333,14.3333"
+       id="path-effect858"
+       is_visible="true"
+       lpeversion="1"
+       method="normal"
+       num_copies="4"
+       starting_angle="0"
+       rotation_angle="60"
+       gap="-0.01"
+       copies_to_360="true"
+       mirror_copies="false"
+       split_items="false" />
+  </defs>
+  <sodipodi:namedview
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     id="namedview"
+     showgrid="false"
+     inkscape:zoom="29.582469"
+     inkscape:cx="8.112913"
+     inkscape:cy="5.8818619"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:current-layer="layercompo"
+     inkscape:document-rotation="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     inkscape:window-maximized="1"
+     pagecolor="#f8f8f8"
+     bordercolor="#c8c8c8"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid"
+       spacingx="0.66667"
+       spacingy="0.66667" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1906">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:date>13 Jan 2019</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Ramón Miranda</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>see the license tab</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>icon ui</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>This is a contribution with Inkscape Project from
+Ramon Miranda www.ramonmiranda.com (design and SVG file)
+Jabiertxo (SVG stuff to integrate them in UI)</dc:description>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:publisher>
+        <dc:identifier />
+        <dc:source />
+        <dc:relation />
+        <dc:language>-</dc:language>
+        <dc:coverage />
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Ramon Miranda
+Jabier Arraiza</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layercompo"
+     inkscape:label="dashed-stroke">
+    <path
+       style="color:#000000;fill:#000000;stroke-width:0.999997;-inkscape-stroke:none"
+       d="m 2.1816406,2.2285156 v 0.34375 0.7480469 H 2.8730469 V 2.9179688 h 0.40625 V 2.2285156 Z m 1.7832032,0 V 2.9179688 H 5.46875 V 2.2285156 Z m 2.1894531,0 V 2.9179688 H 7.6582031 V 2.2285156 Z m 2.1875,0 V 2.9179688 H 9.8457031 V 2.2285156 Z m 2.1894531,0 v 0.6894532 h 1.503906 V 2.2285156 Z m 2.189453,0 v 0.6894532 h 0.40625 v 0.4023437 h 0.691406 V 2.2285156 Z M 2.1816406,3.9960938 V 5.4921875 H 2.8730469 V 3.9960938 Z m 10.9453124,0 v 1.4960937 h 0.691406 V 3.9960938 Z M 2.1816406,6.1679688 V 7.6621094 H 2.8730469 V 6.1679688 Z m 10.9453124,0 v 1.4941406 h 0.691406 V 6.1679688 Z M 2.1816406,8.3378906 V 9.8320312 H 2.8730469 V 8.3378906 Z m 10.9453124,0 v 1.4941406 h 0.691406 V 8.3378906 Z M 2.1816406,10.507812 v 1.496094 h 0.6914063 v -1.496094 z m 10.9453124,0 v 1.496094 h 0.691406 V 10.507812 Z M 2.1816406,12.679688 v 1.091796 h 1.0976563 v -0.689453 h -0.40625 v -0.402343 z m 10.9453124,0 v 0.402343 h -0.40625 v 0.689453 h 1.097656 v -1.091796 z m -9.1621092,0.402343 v 0.689453 H 5.46875 v -0.689453 z m 2.1894531,0 v 0.689453 h 1.5039062 v -0.689453 z m 2.1875,0 v 0.689453 h 1.5039062 v -0.689453 z m 2.1894531,0 v 0.689453 h 1.503906 v -0.689453 z"
+       id="path8729-1"
+       inkscape:path-effect="#path-effect2504"
+       inkscape:original-d="M 2.3872745,2.4337534 V 2.5728738 3.1150129 H 2.6678384 V 2.7119941 H 3.0742223 V 2.4337534 Z m 1.7817258,0 V 2.7119941 H 5.263778 V 2.4337534 Z m 2.1895554,0 V 2.7119941 H 7.4533336 V 2.4337534 Z m 2.1881096,0 V 2.7119941 H 9.6414431 V 2.4337534 Z m 2.1895557,0 v 0.2782407 h 1.094776 V 2.4337534 Z m 2.189555,0 v 0.2782407 h 0.406384 v 0.4030188 h 0.280563 V 2.4337534 Z M 2.3872745,4.2007253 V 5.2864376 H 2.6678384 V 4.2007253 Z m 10.9448855,0 v 1.0857123 h 0.280563 V 4.2007253 Z M 2.3872745,6.37215 V 7.4578624 H 2.6678384 V 6.37215 Z m 10.9448855,0 v 1.0857124 h 0.280563 V 6.37215 Z M 2.3872745,8.5421406 V 9.6278531 H 2.6678384 V 8.5421406 Z m 10.9448855,0 v 1.0857125 h 0.280563 V 8.5421406 Z M 2.3872745,10.713565 v 1.085712 h 0.2805639 v -1.085712 z m 10.9448855,0 v 1.085712 h 0.280563 V 10.713565 Z M 2.3872745,12.88499 v 0.68126 H 3.0742223 V 13.288009 H 2.6678384 V 12.88499 Z m 10.9448855,0 v 0.403019 h -0.406384 v 0.278241 h 0.686947 V 12.88499 Z M 4.1690003,13.288009 V 13.56625 H 5.263778 v -0.278241 z m 2.1895554,0 v 0.278241 h 1.0947779 v -0.278241 z m 2.1881096,0 v 0.278241 h 1.0947778 v -0.278241 z m 2.1895557,0 v 0.278241 h 1.094776 v -0.278241 z" />
+    <path
+       inkscape:connector-curvature="0"
+       d="M 3.8507055,8.7927101 V 12.218951 H 7.2769463 V 8.7927101 Z"
+       class="base"
+       style="fill:#000000;stroke-width:0.606091"
+       sodipodi:nodetypes="ccccc"
+       id="path3510" />
+    <path
+       inkscape:connector-curvature="0"
+       d="M 9.8456675,4.0364978 V 12.300329 H 12.149294 V 4.0364978 Z"
+       class="base"
+       style="fill:#000000;stroke-width:0.606091"
+       sodipodi:nodetypes="ccccc"
+       id="path3512" />
+    <path
+       id="path3566"
+       style="opacity:1;stroke-width:0.377953;stop-color:#000000"
+       d="M 8.716654,5.9136963 A 2.2140258,2.2140258 0 0 1 6.5026281,8.1277222 2.2140258,2.2140258 0 0 1 4.2886023,5.9136963 2.2140258,2.2140258 0 0 1 6.5026281,3.6996706 2.2140258,2.2140258 0 0 1 8.716654,5.9136963 Z" />
+  </g>
+  <style
+     id="s0-6">
+   .success { fill: #009909; }
+   .warning { fill: #FF1990; }
+   .warning   { fill: #00AAFF; }
+  </style>
+  <style
+     id="s2-7"> 
+     @import '../../highlights.css'; 
+  </style>
+</svg>
